@@ -63,7 +63,7 @@ main {
   margin: 0.5rem 0;
 }
 
-.product a {
+.product-card a {
   display: inline-block;
   margin-top: 0.5rem;
   background-color: #d8b4a0;
