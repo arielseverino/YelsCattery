@@ -57,6 +57,30 @@ main {
   margin: 0.5rem 0;
 }
 
+.product-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.product-footer a {
+  background-color: #d8b4a0;
+  color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.product-price {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #333;
+}
+
+
+
 .product-card a {
   display: inline-block;
   margin-top: 0.5rem;
@@ -79,6 +103,8 @@ main {
 		 height:300px;
 		 object-fit:cover;
 		 border-radius:6px;}
+
+	  
 
 footer {
   background-color: #4b2e2e;
