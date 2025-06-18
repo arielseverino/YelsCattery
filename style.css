@@ -48,12 +48,6 @@ main {
   text-align: center;
 }
 
-.product img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
 .product h3 {
   margin-top: 1rem;
   color: #333;
@@ -75,12 +69,14 @@ main {
 }
 
 .product-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1.5rem;}
+
 .product-card
 	   { background:#fff;
 	     border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,.1);overflow:hidden;text-align:center;padding:1rem;}
+		 
 .product-card img{
-	     width:450px;
-		 height:450px;
+	     width:500px;
+		 height:300px;
 		 object-fit:cover;
 		 border-radius:6px;}
 
