@@ -30,6 +30,30 @@ main {
   padding: 2rem;
 }
 
+
+ .nav-btn {
+      display: inline-block;
+      margin: 1rem;
+      padding: 0.7rem 1.5rem;
+      background-color: #d8b4a0;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+ }
+
+
+	nav a {
+  color: white !important;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  background-color: #d8b4a0;
+  border-radius: 6px;
+}
+
+
 .product-section {
   margin-bottom: 3rem;
 }
