@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://arielseverino.github.io/YelsCattery/</loc>
+  <lastmod>2025-06-20T12:57:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://arielseverino.github.io/YelsCattery/shopee.html</loc>
+  <lastmod>2025-06-20T12:57:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arielseverino.github.io/YelsCattery/amazon.html</loc>
+  <lastmod>2025-06-20T12:57:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
